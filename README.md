@@ -38,7 +38,7 @@
 ## 📫 Let's Connect
 
 - 🌐 [LinkedIn](https://www.linkedin.com/in/gajulamanasa) 
-- ✉️ Always happy to talk tech, collab on projects, or just share good coffee-fueled conversations!
+- ✉️ Always happy to collaborate on cool cybersecurity projects, share knowledge, or explore ideas over virtual coffee ☕.
 
 ---
 
