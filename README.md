@@ -1,6 +1,6 @@
-# 👋 Hi there, I'm Manasa Gajula — @manasagajula
+# 👋 Hello there, I'm Manasa Gajula — @mansagajula
 
-🧭 Curious Explorer | 🔐 Cybersecurity Enthusiast | 💡 Lifelong Learner
+🧭 Curious Explorer | 🔐 Cybersecurity Enthusiast |  🧠 Deep Thinker in Cybersecurity | 🛠 Builder of Secure Systems
 
 ---
 
@@ -25,13 +25,13 @@
 
 ## 🛠️ Tech Stack & Interests
 
-- 🐧 Linux
-- 💻 Python
-- 🌐 Web Security
-- ☁️ Exploring Cloud Security (AWS & Azure)
-- 🧠 Problem Solving
+- 🐧 Linux (Kali)
+- 💻 Python, Java
+- 🌐 HTML, CSS, Web Security
+- 🧪 Burp Suite, Wireshark, Bandit
+- ⚙️ Metasploit, Hydra, Nmap
 - 🔍 Capture The Flag (CTF)
-- 🛡️ Penetration Testing
+- ☁️ Exploring Cloud Security (AWS & Azure)
 
 ---
 
@@ -42,5 +42,12 @@
 
 ---
 
+## ⚡ Fun Fact
+
+🧠 The world’s first “ethical hacker” was hired by the U.S. government in the 1970s to legally break into computer systems and uncover weaknesses — decades before cybersecurity became mainstream.
+
+---
+
 Thanks for stopping by!  
-Feel free to explore my repositories, star what you like, and reach out if you’re into security, coding, or curious convos over coffee ☕.
+If you’re into ethical hacking, system security, or just love solving tough problems — you're in the right place. Let’s connect and make the internet a safer place together. 🌐🔐
+
